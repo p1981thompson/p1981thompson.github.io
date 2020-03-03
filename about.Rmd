@@ -1,7 +1,9 @@
 ---
-title: "About me"
+title: "About CATALISE"
 ---
 
-## Header
+## Abstract
 
-Say more about you here.
+Delayed or impaired language development is a common developmental concern, yet there is little agreement about the criteria used to identify and classify language impairments in children. Children's language difficulties are at the interface between education, medicine and the allied professions, who may all adopt different approaches to conceptualising them. Our goal in this study was to use an online Delphi technique to see whether it was possible to achieve consensus among professionals on appropriate criteria for identifying children who might benefit from specialist services. We recruited a panel of 59 experts representing ten disciplines (including education, psychology, speech-language therapy/pathology, paediatrics and child psychiatry) from English-speaking countries (Australia, Canada, Ireland, New Zealand, United Kingdom and USA).
+
+

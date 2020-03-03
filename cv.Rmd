@@ -1,9 +1,14 @@
 ---
-title: "CV"
+title: "CATALISE Articles"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+## Original CATALISE articles
 
-## Header
+The original CAATLISE articles were published in the journals, PLOS ONE and Journal of Child Psychology and Psychiatry. THe PDFs can be downloaded directly from here:
 
-Say more about your CV here.
+<a href="CATALISE1.pdf#" class="download" title="Download CATALISE 1 article as PDF">Download CATALISE1</a>	
+
+<a href="CATALISE2.pdf#" class="download" title="Download CATALISE 1 article as PDF">Download CATALISE2</a>
+
+
+
