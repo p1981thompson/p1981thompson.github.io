@@ -2,9 +2,7 @@
 title: "CATALISE Articles"
 ---
 
-## Original CATALISE articles
-
-The original CAATLISE articles were published in the journals, PLOS ONE and Journal of Child Psychology and Psychiatry. THe PDFs can be downloaded directly from here:
+The original CATALISE articles were published in the journals, PLOS ONE and Journal of Child Psychology and Psychiatry. The PDFs can be downloaded directly from here:
 
 <a href="CATALISE1.pdf#" class="download" title="Download CATALISE 1 article as PDF">Download CATALISE1</a>	
 
